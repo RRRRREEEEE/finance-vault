@@ -14,11 +14,28 @@
 
 ## Git 版本管理
 
+### 版本号规则
+- 当前基线：**v2.4**（见 `模板版本.md`）
+- 默认每次提交 = **补丁版本**（v2.4.1 → v2.4.2 → v2.4.3…）
+- 人类明确说"大版本"才跳中间位（v2.4 → v2.5）
+- 人类说"大版本"才跳大版本号（v2 → v3）
+
+### 每次收尾
+```bash
+git add -A
+git commit -m "vX.Y.Z · {一句话概括}"
+git tag "vX.Y.Z"
+git push --follow-tags
+```
+
+### 分支策略
 - 非平凡改动（合并文档/重构规则/批量修改笔记）→ 先 `git checkout -b feature/xxx`
 - 搞砸了 → `git checkout master` 回滚，删分支
 - 做对了 → merge 回 master + push
-- 每门课完成 → `git tag v1.0-{课程名}`
-- 用户说"回到上一步" → 优先用 git 回滚，不是手动重做
+- 日常笔记生成/章节处理 → 直接在 master 提交（不打分支）
+
+### 仓库
+- `github.com/RRRRREEEEE/finance-vault`（SSH 协议，无需梯子）
 
 ## 每次必须
 
