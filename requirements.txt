@@ -1,0 +1,5 @@
+# 金融项目操作库 - Python 依赖
+# 安装方式：.venv/Scripts/pip install -r requirements.txt
+matplotlib>=3.10.0
+python-pptx>=1.0.0
+pywin32>=306
