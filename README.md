@@ -24,4 +24,3 @@
 
 - 质检脚本：`python check_vault.py`
 - 毕业标准：`.claude/docs/课程毕业标准.md`
-test
