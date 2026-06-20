@@ -3,8 +3,8 @@
 > 红线与核心规则已通过 `.claude/rules/` 自动加载，本文只放项目身份、进度、操作入口。
 
 @.claude/docs/AI协作指令_v2.md
-@.claude/docs/笔记制作SOP.md
-@.claude/docs/笔记检查清单.md
+@.claude/docs/SOP/笔记制作SOP.md
+@.claude/docs/SOP/笔记检查清单.md
 <!-- 如果 @import 未生效，请手动 Read 以上三个文件 -->
 
 ---
@@ -85,16 +85,16 @@ Vault 结构:
 | `.claude/rules/always.md` | 🔄 自动 | — |
 | `.claude/rules/vault-notes.md` | 🔄 操作Vault时自动 | — |
 | `.claude/docs/AI协作指令_v2.md` | 📥 @import 自动加载 | — |
-| `.claude/docs/笔记制作SOP.md` | 📥 @import 自动加载 | — |
-| `.claude/docs/笔记检查清单.md` | 📥 @import 自动加载 | — |
-| `.claude/docs/进阶能力清单.md` | 📖 手动 | 串讲、图片协作、链接修复等触发式技能 |
-| `.claude/docs/用户指令与偏好记录.md` | 📖 手动 | 不理解"为什么"时 |
-| `.claude/docs/源文件清单.md` | 📖 手动 | 开始新课程前，了解有哪些源文件 |
-| `.claude/docs/术语登记表.md` | 📖 手动 | 建笔记前查重，避免跨课程建重复 |
-| `.claude/docs/知识库整理方案.md` | 📖 手动 | 跨课程/去重时 |
-| `.claude/docs/问题解决与标准化.md` | 📖 手动 | 遇到报错时 |
-| `.claude/docs/变更日志.md` | 📖 手动 | 想知道改了什么时 |
-| `.claude/docs/模板版本.md` | 📖 手动 | 怀疑旧笔记模板不一致时 |
-| `.claude/docs/课程毕业标准.md` | 📖 手动 | 章节/课程完成前自检 |
-| `.claude/docs/会话收尾更新清单.md` | 📖 手动 | 人类说"更新你要更新的"时 |
-| `.claude/docs/人机协作模式手册.md` | 📖 手动 | 遇到新的协作场景不确定怎么分工时 |
+| `.claude/docs/SOP/笔记制作SOP.md` | 📥 @import 自动加载 | — |
+| `.claude/docs/SOP/笔记检查清单.md` | 📥 @import 自动加载 | — |
+| `.claude/docs/skills/进阶能力清单.md` | 📖 手动 | 串讲、图片协作、链接修复等触发式技能 |
+| `.claude/docs/SOP/会话收尾更新清单.md` | 📖 手动 | 人类说"更新你要更新的"时 |
+| `.claude/docs/reference/用户指令与偏好记录.md` | 📖 手动 | 不理解"为什么"时 |
+| `.claude/docs/reference/源文件清单.md` | 📖 手动 | 开始新课程前，了解有哪些源文件 |
+| `.claude/docs/reference/术语登记表.md` | 📖 手动 | 建笔记前查重，避免跨课程建重复 |
+| `.claude/docs/reference/知识库整理方案.md` | 📖 手动 | 跨课程/去重时 |
+| `.claude/docs/reference/问题解决与标准化.md` | 📖 手动 | 遇到报错时 |
+| `.claude/docs/reference/课程毕业标准.md` | 📖 手动 | 章节/课程完成前自检 |
+| `.claude/docs/reference/人机协作模式手册.md` | 📖 手动 | 遇到新的协作场景不确定怎么分工时 |
+| `.claude/docs/meta/变更日志.md` | 📖 手动 | 想知道改了什么时 |
+| `.claude/docs/meta/模板版本.md` | 📖 手动 | 怀疑旧笔记模板不一致时 |
