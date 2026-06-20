@@ -32,7 +32,7 @@ from datetime import datetime
 
 import yaml
 
-VAULT = Path(r"D:\data\金融学")
+VAULT = Path.cwd()  # CI 环境中 cwd 即仓库根目录；本地运行可手动改路径
 ATTACHMENTS = VAULT / "999-Attachments"
 IGNORE_DIRS = {".obsidian", ".trash", "999-Attachments", "900-跨课程枢纽"}
 
