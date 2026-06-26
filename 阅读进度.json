@@ -1,6 +1,6 @@
 {
   "project": "跨课程知识图谱",
-  "last_updated": "2026-06-26T22:43:43",
+  "last_updated": "2026-06-26T22:55:38",
   "supplement_task": {
     "description": "用米什金学习笔记PDF补充货币金融学已有笔记",
     "source": "米什金《货币金融学》（第13版）笔记和课后习题（含考研真题.pdf",
@@ -771,13 +771,14 @@
             "Comparative Advantage 比较优势",
             "Terms of Trade 贸易条件",
             "Gains from Trade 贸易利益",
-            "Comparative Advantage Extended to Many Products 比较优势的多产品扩展"
+            "Comparative Advantage Extended to Many Products 比较优势的多产品扩展",
+            "Ch01 知识串讲 为什么要进行国际贸易"
           ],
           "content_notes": 14,
           "shell_notes": 0,
-          "images_extracted": 0,
+          "images_extracted": 5,
           "status": "completed",
-          "notes": "国际贸易第一章：古典贸易理论。24页→14篇笔记：重商主义→重农学派→绝对优势(斯密)→比较优势(李嘉图)→多产品扩展。"
+          "notes": "国际贸易第一章：古典贸易理论。24页→14篇笔记：重商主义→重农学派→绝对优势(斯密)→比较优势(李嘉图)→多产品扩展。 +1串讲+5图表"
         }
       ]
     },
