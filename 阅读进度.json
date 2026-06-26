@@ -1,6 +1,6 @@
 {
   "project": "跨课程知识图谱",
-  "last_updated": "2026-06-26T22:00:00",
+  "last_updated": "2026-06-26T22:43:43",
   "supplement_task": {
     "description": "用米什金学习笔记PDF补充货币金融学已有笔记",
     "source": "米什金《货币金融学》（第13版）笔记和课后习题（含考研真题.pdf",
@@ -722,7 +722,64 @@
       "status": "pending"
     },
     "国际贸易": {
-      "status": "pending"
+      "status": "in_progress",
+      "chapters": [
+        {
+          "chapter_id": "ch01",
+          "chapter_label": "ch01-古典贸易理论",
+          "source_files": [
+            "第1章 古典贸易理论-选修.pdf"
+          ],
+          "total_pages": 24,
+          "processed_pages": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24
+          ],
+          "notes_generated": [
+            "Mercantilism 重商主义",
+            "Zero-Sum Game 零和博弈",
+            "Protectionism 贸易保护主义",
+            "Physiocrats 重农学派",
+            "Free Trade 自由贸易",
+            "Absolute Advantage 绝对优势",
+            "Division of Labor 分工",
+            "Specialization 专业化",
+            "Labor Productivity 劳动生产率",
+            "Positive-Sum Game 正和博弈",
+            "Comparative Advantage 比较优势",
+            "Terms of Trade 贸易条件",
+            "Gains from Trade 贸易利益",
+            "Comparative Advantage Extended to Many Products 比较优势的多产品扩展"
+          ],
+          "content_notes": 14,
+          "shell_notes": 0,
+          "images_extracted": 0,
+          "status": "completed",
+          "notes": "国际贸易第一章：古典贸易理论。24页→14篇笔记：重商主义→重农学派→绝对优势(斯密)→比较优势(李嘉图)→多产品扩展。"
+        }
+      ]
     },
     "中级微观经济学": {
       "status": "pending"
