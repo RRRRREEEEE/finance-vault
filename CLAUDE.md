@@ -20,7 +20,7 @@
 ```
 Vault（笔记输出）: D:\data\金融学\
 源文件（只读）  : D:\.pogget\user_storage\u_9e95ae\8e43a\{课程名}\
-Python 环境     : C:\Users\14366\Desktop\金融项目操作库\.venv\Scripts\python
+Python 环境     : D:\data\.venv-finance\Scripts\python
 
 Vault 结构:
 ├── 100-货币金融学/   ✅ 12章

@@ -342,7 +342,7 @@ plt.savefig(r'D:\data\金融学\999-Attachments\图表名.png', dpi=150, bbox_in
 "
 ```
 
-**Python 虚拟环境**：`C:\Users\14366\Desktop\金融项目操作库\.venv\`
+**Python 虚拟环境**：`D:\data\.venv-finance\`
 - 所有 Python 依赖（matplotlib、python-pptx）安装在此 venv 中
 - 使用时必须通过 `.venv/Scripts/python` 调用，不可使用系统 python
 - 依赖清单见 `requirements.txt`
