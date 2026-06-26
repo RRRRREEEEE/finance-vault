@@ -1,6 +1,6 @@
 {
   "project": "跨课程知识图谱",
-  "last_updated": "2026-06-26T22:55:38",
+  "last_updated": "2026-06-26T23:08:08",
   "supplement_task": {
     "description": "用米什金学习笔记PDF补充货币金融学已有笔记",
     "source": "米什金《货币金融学》（第13版）笔记和课后习题（含考研真题.pdf",
@@ -779,6 +779,67 @@
           "images_extracted": 5,
           "status": "completed",
           "notes": "国际贸易第一章：古典贸易理论。24页→14篇笔记：重商主义→重农学派→绝对优势(斯密)→比较优势(李嘉图)→多产品扩展。 +1串讲+5图表"
+        },
+        {
+          "chapter_id": "ch02",
+          "chapter_label": "ch02-要素禀赋理论",
+          "source_files": [
+            "第2章 要素禀赋理论-选修.pdf"
+          ],
+          "total_pages": 32,
+          "processed_pages": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32
+          ],
+          "notes_generated": [
+            "Factor Endowment Theory 要素禀赋理论",
+            "Factor Abundance 要素禀赋",
+            "Factor Intensity 要素密集度",
+            "Heckscher-Ohlin Theorem 赫克歇尔-俄林定理",
+            "Leontief Paradox 里昂惕夫之谜",
+            "Factor-Intensity Reversal 要素密集度逆转",
+            "Human Capital 人力资本",
+            "Stolper-Samuelson Theorem 斯托尔珀-萨缪尔森定理",
+            "Magnification Effect 放大效应",
+            "Dutch Disease 荷兰病",
+            "Factor-Price Equalization 要素价格均等化",
+            "Ch02 知识串讲 比较优势从何而来"
+          ],
+          "content_notes": 11,
+          "shell_notes": 0,
+          "images_extracted": 6,
+          "status": "completed",
+          "notes": "要素禀赋理论(H-O)：32页→11篇笔记+1串讲+1索引+6图表。H-O定理→里昂惕夫之谜(5种解释)→S-S定理→要素价格均等化。"
         }
       ]
     },
