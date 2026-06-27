@@ -1,6 +1,6 @@
 {
   "project": "跨课程知识图谱",
-  "last_updated": "2026-06-27T23:00:00",
+  "last_updated": "2026-06-27T23:59:00",
   "supplement_task": {
     "description": "用米什金学习笔记PDF补充货币金融学已有笔记",
     "source": "米什金《货币金融学》（第13版）笔记和课后习题（含考研真题.pdf",
@@ -940,6 +940,42 @@
           "images_extracted": 4,
           "status": "completed",
           "notes": "非关税措施：50页→19篇笔记+1串讲+1索引+4图表。六部分：NTB概述→进口配额(含VER)→许可证/外汇/政府采购→技术壁垒→环境/劳动壁垒→其他措施(押金/国家垄断/海关/原产地规则)。"
+        },
+        {
+          "chapter_id": "ch06",
+          "chapter_label": "ch06-出口鼓励与贸易救济",
+          "source_files": [
+            "第6章 出口鼓励和贸易救济措施-选修.pdf"
+          ],
+          "total_pages": 84,
+          "processed_pages": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84],
+          "notes_generated": [
+            "Export Subsidies 出口补贴",
+            "Export Subsidy Economics 出口补贴的经济效应",
+            "Export Credit 出口信贷",
+            "Exchange Dumping 外汇倾销",
+            "Export Control 出口管制",
+            "Special Economic Zone 经济特区",
+            "Free Trade Zone 自由贸易区",
+            "China Free Trade Trial Zones 中国自贸试验区",
+            "Hainan Free Trade Port 海南自贸港",
+            "Trade Remedy Measures 贸易救济措施",
+            "Dumping 倾销",
+            "Anti-Dumping 反倾销",
+            "Market Economy Status 市场经济地位",
+            "Countervailing Measures 反补贴措施",
+            "Safeguard Measures 保障措施",
+            "US Section 337 美国337调查",
+            "US Section 201 美国201条款",
+            "US Section 301 美国301条款",
+            "US Section 232 美国232调查",
+            "Ch06 知识串讲 政府如何帮本国企业出口又如何防御别国不公平贸易"
+          ],
+          "content_notes": 19,
+          "shell_notes": 0,
+          "images_extracted": 4,
+          "status": "completed",
+          "notes": "出口鼓励与贸易救济：84页→19篇笔记+1串讲+1索引+4图表。四部分：出口鼓励(补贴/信贷/倾销/管制)→经济特区(自贸区/FTZ/海南封关)→贸易救济(反倾销/反补贴/保障措施)→美国贸易法(337/201/301/232)。"
         }
       ]
     },
