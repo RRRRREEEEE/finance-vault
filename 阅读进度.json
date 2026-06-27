@@ -1,6 +1,6 @@
 {
   "project": "跨课程知识图谱",
-  "last_updated": "2026-06-28T02:00:00",
+  "last_updated": "2026-06-28T03:00:00",
   "supplement_task": {
     "description": "用米什金学习笔记PDF补充货币金融学已有笔记",
     "source": "米什金《货币金融学》（第13版）笔记和课后习题（含考研真题.pdf",
@@ -722,7 +722,7 @@
       "status": "pending"
     },
     "国际贸易": {
-      "status": "in_progress",
+      "status": "completed",
       "chapters": [
         {
           "chapter_id": "ch01",
@@ -1048,6 +1048,26 @@
           "images_extracted": 3,
           "status": "completed",
           "notes": "区域经济一体化：82页→10篇笔记+1串讲+1索引+3图表。三部分：一体化理论(六层次/Viner贸易创造转移/动静效应)→全球组织实践(EU/NAFTA-USMCA/TPP-CPTPP/RCEP/APEC-IPEF)→中国FTA战略。"
+        },
+        {
+          "chapter_id": "ch10",
+          "chapter_label": "ch10-世界贸易组织",
+          "source_files": ["第10章 世界贸易组织-选修.pdf"],
+          "total_pages": 39,
+          "processed_pages": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39],
+          "notes_generated": [
+            "GATT 关税与贸易总协定",
+            "Uruguay Round 乌拉圭回合",
+            "WTO Overview 世界贸易组织概述",
+            "WTO Reform Crisis 世贸组织改革危机",
+            "China 20 Years in WTO 中国入世20年",
+            "Ch10 知识串讲 从GATT到WTO的多边贸易体制是如何演变的"
+          ],
+          "content_notes": 5,
+          "shell_notes": 0,
+          "images_extracted": 0,
+          "status": "completed",
+          "notes": "世界贸易组织：39页→5篇笔记+1串讲+1索引。四部分：GATT八轮谈判→WTO概述(五大原则六功能)→改革危机(上诉机构停摆/S&D/协商一致/规则更新)→中国入世20年(关税15.3%→7.4%)。"
         }
       ]
     },
