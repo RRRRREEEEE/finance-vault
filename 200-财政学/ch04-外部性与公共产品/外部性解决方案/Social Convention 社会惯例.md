@@ -10,9 +10,6 @@ aliases:
   - Social Convention
   - 道德压力
   - Moral Pressure
-  - 企业社会责任
-  - Corporate Social Responsibility
-  - CSR
 created: 2026-06-14
 source: "2026-04-第四讲-外部性与公共产品.pptx 第16页"
 chapter: "第四讲 外部性与公共产品"

@@ -1,6 +1,6 @@
 {
   "project": "跨课程知识图谱",
-  "last_updated": "2026-06-26T23:44:51",
+  "last_updated": "2026-06-27T23:00:00",
   "supplement_task": {
     "description": "用米什金学习笔记PDF补充货币金融学已有笔记",
     "source": "米什金《货币金融学》（第13版）笔记和课后习题（含考研真题.pdf",
@@ -840,6 +840,106 @@
           "images_extracted": 6,
           "status": "completed",
           "notes": "要素禀赋理论(H-O)：32页→11篇笔记+1串讲+1索引+6图表。H-O定理→里昂惕夫之谜(5种解释)→S-S定理→要素价格均等化。"
+        },
+        {
+          "chapter_id": "ch03",
+          "chapter_label": "ch03-当代国际贸易理论",
+          "source_files": [
+            "第3章 当代国际贸易理论-选修.pdf"
+          ],
+          "total_pages": 55,
+          "processed_pages": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55],
+          "notes_generated": [
+            "Intra-Industry Trade 产业内贸易",
+            "Inter-Industry Trade 产业间贸易",
+            "Intra-Industry Trade Index 产业内贸易指数",
+            "Preference Similarity Theory 偏好相似理论",
+            "Overlapping Demand 重叠需求",
+            "Technology Gap Model 技术差距模型",
+            "Imitation Lag 模仿时滞",
+            "Product Life Cycle Theory 产品生命周期理论",
+            "Economies of Scale 规模经济",
+            "Internal Economies of Scale 内部规模经济",
+            "External Economies of Scale 外部规模经济",
+            "Monopolistic Competition and Trade 垄断竞争与贸易",
+            "Intra-Firm Trade 公司内贸易",
+            "Competitive Advantage of Nations 国家竞争优势",
+            "Diamond Model Four Factors 钻石模型四因素",
+            "Stages of Competitive Development 竞争优势阶段论",
+            "Ch03 知识串讲 当比较优势失效时"
+          ],
+          "content_notes": 16,
+          "shell_notes": 0,
+          "images_extracted": 9,
+          "status": "completed",
+          "notes": "当代国际贸易理论(2026-06-27回补)：55页→16篇笔记+1串讲+1索引+9图表。六部分：产业内贸易→偏好相似→技术差距与PLC→规模经济→公司内贸易→国家竞争优势。回补新增：Inter-Industry Trade、Diamond Model Four Factors。"
+        },
+        {
+          "chapter_id": "ch04",
+          "chapter_label": "ch04-关税措施",
+          "source_files": [
+            "第4章 关税措施-选修.pdf"
+          ],
+          "total_pages": 49,
+          "processed_pages": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49],
+          "notes_generated": [
+            "Tariff 关税",
+            "Customs Tariff System 海关税则制度",
+            "Most Favored Nation 最惠国待遇",
+            "Consumer Surplus 消费者剩余",
+            "Producer Surplus 生产者剩余",
+            "Tariff Economic Effects 关税的经济效应",
+            "Small Country Tariff Model 小国关税模型",
+            "Large Country Tariff Model 大国关税模型",
+            "Production Distortion Loss 生产扭曲损失",
+            "Deadweight Loss 无谓损失",
+            "Optimal Tariff 最优关税",
+            "Nominal Rate of Protection 名义保护率",
+            "Effective Rate of Protection 有效保护率",
+            "Tariff Escalation 关税升级",
+            "Ch04 知识串讲 关税如何影响一国福利"
+          ],
+          "content_notes": 14,
+          "shell_notes": 0,
+          "images_extracted": 6,
+          "status": "completed",
+          "notes": "关税措施(2026-06-27回补)：49页→14篇笔记+1串讲+1索引+6图表。四部分：关税概述→海关税则→经济分析(小国/大国/最优)→有效保护。回补新增：Small Country Model、Large Country Model、Production Distortion Loss。"
+        },
+        {
+          "chapter_id": "ch05",
+          "chapter_label": "ch05-非关税措施",
+          "source_files": [
+            "第5章 非关税措施-选修.pdf"
+          ],
+          "total_pages": 50,
+          "processed_pages": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50],
+          "notes_generated": [
+            "Non-Tariff Barriers 非关税壁垒",
+            "Import Quotas 进口配额",
+            "Quota Economic Effects 配额的经济效应",
+            "Quota vs Tariff 配额与关税的比较",
+            "Voluntary Export Restraints 自动出口限制",
+            "Import License System 进口许可证制",
+            "Foreign Exchange Control 外汇管制",
+            "Discriminatory Government Procurement 歧视性政府采购",
+            "Technical Barriers to Trade 技术性贸易壁垒",
+            "Environmental Trade Barriers 环境贸易壁垒",
+            "Animal Welfare Barriers 动物福利壁垒",
+            "Labor Barriers 劳动壁垒",
+            "Corporate Social Responsibility 企业社会责任",
+            "SA8000 社会责任标准",
+            "Advanced Deposit 进口押金制",
+            "State Monopoly 进出口国家垄断",
+            "Minimum Price and Prohibitive Import 最低限价与禁止进口",
+            "Customs Procedures 海关程序壁垒",
+            "Rules of Origin 原产地规则",
+            "Ch05 知识串讲 关税之外还有什么限制进口的手段"
+          ],
+          "content_notes": 19,
+          "shell_notes": 0,
+          "images_extracted": 4,
+          "status": "completed",
+          "notes": "非关税措施：50页→19篇笔记+1串讲+1索引+4图表。六部分：NTB概述→进口配额(含VER)→许可证/外汇/政府采购→技术壁垒→环境/劳动壁垒→其他措施(押金/国家垄断/海关/原产地规则)。"
         }
       ]
     },
