@@ -1,6 +1,6 @@
 {
   "project": "跨课程知识图谱",
-  "last_updated": "2026-06-28T01:00:00",
+  "last_updated": "2026-06-28T02:00:00",
   "supplement_task": {
     "description": "用米什金学习笔记PDF补充货币金融学已有笔记",
     "source": "米什金《货币金融学》（第13版）笔记和课后习题（含考研真题.pdf",
@@ -1023,6 +1023,31 @@
           "images_extracted": 2,
           "status": "completed",
           "notes": "贸易政策历史实践：32页→6篇笔记+1串讲+1索引+2图表。两大部分：发展中国家(IS vs 出口导向+东亚奇迹)→发达国家(贸易政策五阶段演进+斯姆特霍利关税法+管理贸易)。"
+        },
+        {
+          "chapter_id": "ch09",
+          "chapter_label": "ch09-区域经济一体化",
+          "source_files": ["第9章 区域经济一体化-选修.pdf"],
+          "total_pages": 82,
+          "processed_pages": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82],
+          "notes_generated": [
+            "Regional Economic Integration 区域经济一体化",
+            "Trade Creation and Trade Diversion 贸易创造与贸易转移",
+            "Effects of Regional Integration 区域一体化效应",
+            "Waves of Regional Integration 区域一体化四次浪潮",
+            "European Union 欧盟",
+            "NAFTA and USMCA 北美自贸协定与美墨加协定",
+            "TPP and CPTPP 跨太平洋伙伴关系协定",
+            "RCEP 区域全面经济伙伴关系协定",
+            "APEC and IPEF 亚太经合与印太经济框架",
+            "China FTA Strategy 中国自贸区战略",
+            "Ch09 知识串讲 区域一体化的理论逻辑与全球版图"
+          ],
+          "content_notes": 10,
+          "shell_notes": 0,
+          "images_extracted": 3,
+          "status": "completed",
+          "notes": "区域经济一体化：82页→10篇笔记+1串讲+1索引+3图表。三部分：一体化理论(六层次/Viner贸易创造转移/动静效应)→全球组织实践(EU/NAFTA-USMCA/TPP-CPTPP/RCEP/APEC-IPEF)→中国FTA战略。"
         }
       ]
     },
