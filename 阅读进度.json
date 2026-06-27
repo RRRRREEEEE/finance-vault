@@ -1,6 +1,6 @@
 {
   "project": "跨课程知识图谱",
-  "last_updated": "2026-06-27T23:59:00",
+  "last_updated": "2026-06-28T00:30:00",
   "supplement_task": {
     "description": "用米什金学习笔记PDF补充货币金融学已有笔记",
     "source": "米什金《货币金融学》（第13版）笔记和课后习题（含考研真题.pdf",
@@ -976,6 +976,32 @@
           "images_extracted": 4,
           "status": "completed",
           "notes": "出口鼓励与贸易救济：84页→19篇笔记+1串讲+1索引+4图表。四部分：出口鼓励(补贴/信贷/倾销/管制)→经济特区(自贸区/FTZ/海南封关)→贸易救济(反倾销/反补贴/保障措施)→美国贸易法(337/201/301/232)。"
+        },
+        {
+          "chapter_id": "ch07",
+          "chapter_label": "ch07-贸易保护主义理论",
+          "source_files": [
+            "第7章 贸易保护主义理论-选修.pdf"
+          ],
+          "total_pages": 43,
+          "processed_pages": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43],
+          "notes_generated": [
+            "Infant Industry Argument 幼稚产业保护论",
+            "Hamilton's Protective Tariffs 汉密尔顿保护关税",
+            "List's Infant Industry Theory 李斯特幼稚产业理论",
+            "Traditional Protection Arguments 传统贸易保护理论概述",
+            "CHIPS and Science Act 芯片与科学法",
+            "Strategic Trade Policy 战略性贸易政策",
+            "Profit Shifting Theory 利润转移理论",
+            "External Economy Theory of Trade Policy 贸易政策的外部经济理论",
+            "Political Economy of Trade Policy 贸易政策的政治经济学",
+            "Ch07 知识串讲 既然自由贸易好为什么还有保护主义"
+          ],
+          "content_notes": 9,
+          "shell_notes": 0,
+          "images_extracted": 5,
+          "status": "completed",
+          "notes": "贸易保护主义理论：43页→9篇笔记+1串讲+1索引+5图表。三部分：传统保护理论(幼稚产业/汉密尔顿/李斯特/六大论点/芯片法)→战略性贸易政策(利润转移波音空客/外部经济)→政治经济学(中点选民/集体行动/竞选贡献/蔗糖案)。"
         }
       ]
     },
