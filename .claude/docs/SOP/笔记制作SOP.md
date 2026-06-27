@@ -48,7 +48,7 @@
 
 **PPTX（.pptx）**：
 ```bash
-.venv/Scripts/python -c "
+D:\data\.venv-finance\Scripts\python -c "
 from pptx import Presentation
 prs = Presentation(r'源文件路径')
 for i in range(start, end):  # 0-indexed
@@ -99,7 +99,7 @@ $bmp.Save('输出.png', [System.Drawing.Imaging.ImageFormat]::Png)
 
 ```bash
 # 用 PowerPoint COM 导出整页为高清 PNG
-.venv/Scripts/python -c "
+D:\data\.venv-finance\Scripts\python -c "
 import win32com.client, os
 powerpoint = win32com.client.Dispatch('PowerPoint.Application')
 pres = powerpoint.Presentations.Open(r'源文件.pptx', ReadOnly=True, WithWindow=False)

@@ -18,7 +18,7 @@ aliases:
   - 委托代理问题
 created: 2026-06-06
 source: Ch08-2026-T.pptx 第12-22页
-chapter: Chapter 8 An Economic Analysis of Financial Structure
+chapter: "第8章 金融结构分析"
 importance: "****"
 ---
 

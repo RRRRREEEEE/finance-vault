@@ -25,6 +25,9 @@ paths:
 tags: [{课程名}, {chXX-章简称}, {知识类型}]
 courses: [{课程名}]
 aliases: [{英文}, {缩写}, {中文}]
+created: {YYYY-MM-DD}
+source: "{文件名} 第{X}页"
+chapter: "{第X章} {章标题}"
 importance: "{* 到 *****}"   # 必须加引号
 ```
 

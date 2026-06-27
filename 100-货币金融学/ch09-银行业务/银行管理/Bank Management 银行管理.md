@@ -14,7 +14,7 @@ aliases:
   - 资产转换
 created: 2026-06-06
 source: Ch09-2026-T.pptx 第8-38页
-chapter: Chapter 9 The Banking Firm and Its Management
+chapter: "第9章 银行业务"
 importance: "***"
 ---
 

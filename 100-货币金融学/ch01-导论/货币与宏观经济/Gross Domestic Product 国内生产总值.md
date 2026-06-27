@@ -18,7 +18,7 @@ aliases:
   - 实际GDP
 created: 2026-06-06
 source: Ch01-2026 (1).pptx 第32-33页
-chapter: Chapter 1 Why Study Money, Banking, and Financial Markets
+chapter: "第1章 导论"
 importance: "***"
 ---
 

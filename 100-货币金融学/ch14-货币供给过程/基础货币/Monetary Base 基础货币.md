@@ -12,7 +12,7 @@ aliases:
   - MB
 created: 2026-06-06
 source: Ch14-2026(1).pptx 第4-10页
-chapter: Chapter 14 The Money Supply Process
+chapter: "第14章 货币供给过程"
 importance: "****"
 ---
 

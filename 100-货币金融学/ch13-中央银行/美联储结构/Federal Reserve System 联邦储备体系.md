@@ -13,8 +13,8 @@ aliases:
   - FOMC
 created: 2026-06-06
 source: Ch13-2026.pptx 第9-26页
-chapter: Chapter 13 Central Banks
-importance:
+chapter: "第13章 中央银行"
+importance: "****"
 ---
 
 # 联邦储备体系 (Federal Reserve System)

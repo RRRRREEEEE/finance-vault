@@ -85,7 +85,7 @@ aliases: [{{英文全称}}, {{英文缩写}}, {{中文名}}, {{中文别名}}]
 created: {{YYYY-MM-DD}}
 source: "{{文件名}} 第{{X}}页"
 chapter: "{{第X章}} {{章标题}}"
-importance: # AI 自评：* 到 *****（五星制）。AI 评定即最终
+importance: "{* 到 *****}"   # AI自评，必须加引号
 ---
 ```
 
@@ -265,12 +265,12 @@ D:\.pogget\user_storage\u_9e95ae\8e43a\货币金融学\
 ### 5.2 PPTX 文本提取方法
 
 ```bash
-python3 -c "
+D:\data\.venv-finance\Scripts\python -c "
 import sys
 sys.stdout.reconfigure(encoding='utf-8')
 from pptx import Presentation
 
-prs = Presentation(r'D:\.pogget\...\Ch01-2026 (1).pptx')
+prs = Presentation(r'D:\data\...\Ch01-2026 (1).pptx')
 slides = list(prs.slides)
 # 读取指定页码范围
 for i, slide in enumerate(slides[start:end], start=start):
@@ -292,7 +292,7 @@ PPTX 本质是 zip 压缩包。图片在 `ppt/media/` 中，可通过 slide 的 
 
 ```bash
 # 一步搞定：提取全部图片 + 输出页面对应关系
-.venv/Scripts/python -c "
+D:\data\.venv-finance\Scripts\python -c "
 import zipfile, os, re
 
 pptx = r'D:\.pogget\...\Ch01-2026 (1).pptx'
@@ -327,24 +327,23 @@ with zipfile.ZipFile(pptx, 'r') as z:
 pdftotext -layout "源文件.pdf" "输出.txt"
 ```
 
-### 5.5 图表生成
+### 5.5 图表处理
 
-使用 matplotlib 生成折线图、柱状图等，输出到 `999-Attachments/`。
+**🚫 严禁用 matplotlib 自绘图表。图片必须来自课件原文件。**
 
-```bash
-# 使用项目虚拟环境
-.venv/Scripts/python -c "
-import matplotlib
-matplotlib.use('Agg')
-import matplotlib.pyplot as plt
-# ... 绘图代码 ...
-plt.savefig(r'D:\data\金融学\999-Attachments\图表名.png', dpi=150, bbox_inches='tight', facecolor='white')
-"
-```
+| 来源 | 方法 |
+|------|------|
+| PPTX 嵌入图 | zipfile 提取 `ppt/media/` |
+| PPTX 矢量图 (EMF) | PowerShell `System.Drawing.Image` 转换 |
+| PPTX 绘制图形 (AutoShape) | PowerPoint COM `slide.Export()` 导出整页 |
+| PDF 嵌入图 | PyMuPDF `page.get_images()` 提取 |
+| PDF 整页渲染 | PyMuPDF `page.get_pixmap(dpi=200)` |
+
+详见 `笔记制作SOP.md` §2.3。
 
 **Python 虚拟环境**：`D:\data\.venv-finance\`
-- 所有 Python 依赖（matplotlib、python-pptx）安装在此 venv 中
-- 使用时必须通过 `.venv/Scripts/python` 调用，不可使用系统 python
+- 所有 Python 依赖（python-pptx、PyMuPDF、pywin32）安装在此 venv 中
+- 使用时必须通过 `D:\data\.venv-finance\Scripts\python` 调用，不可使用系统 python
 - 依赖清单见 `requirements.txt`
 
 ### 5.6 为什么需要进度管理
@@ -512,6 +511,14 @@ AI 自行执行：
 | 2026-06-06 | ~建笔记规则全面翻转 | 货币金融学补漏：凡提到的概念都建笔记（哪怕1-2句），不再禁止空壳。新增61篇笔记 |
 | 2026-06-06 | ~importance 改为 AI 填写 | 用户要求：懒得审核。AI 用五星制自评，`*`=空壳，`*****`=枢纽概念 |
 | 2026-06-06 | ~分批策略场景化 | 首次精读5-8页，补漏整章提取批量建，密章3-5页，疏章8-12页 |
+| 2026-06-14 | 文档体系重构 | SOP/skills/reference/meta 四文件夹分离，CLAUDE.md 改为文档群总索引 |
+| 2026-06-14 | 人机分工规则变更 | 公式/importance/链接全交 AI，人类不再审核；个人批注区 AI 只留空位 |
+| 2026-06-19 | 图片提取优先级 | 嵌入独立图→get_images() 提取；矢量→渲染+clip；🚫 禁用 matplotlib |
+| 2026-06-20 | 文档归类 + 串讲自动化 | 串讲从触发式→SOP 第四步自动执行；SOP 与 Skills 正式分离 |
+| 2026-06-26 | PDF 编码修复 | 国际贸易 PDF 中文乱码：pdftotext 统一加 `-enc UTF-8` |
+| 2026-06-26 | 子文件夹强制规则 | SOP §3.1：笔记必须归入主题子文件夹，3-8概念/组 |
+| 2026-06-28 | 版本控制收归人类 | 版本号由人类决定，Git 提交仅在人类说"更新"后执行 |
+| 2026-06-28 | v2.5 全库文档审计 | 16文档交叉审计，修复24项矛盾（frontmatter/venv/matplotlib/Git流程统一） |
 
 ---
 

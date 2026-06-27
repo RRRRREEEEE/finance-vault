@@ -12,7 +12,7 @@ aliases:
   - Secondary Market
 created: 2026-06-06
 source: Ch02-2026-T (1).pptx 第10-18页
-chapter: Chapter 2 An Overview of the Financial System
+chapter: "第2章 金融体系概览"
 importance: "****"
 ---
 

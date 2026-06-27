@@ -14,7 +14,7 @@ aliases:
   - 有效期限
 created: 2026-06-06
 source: Ch04-2026-T(3).pptx 第43-53页
-chapter: Chapter 4 The Meaning of Interest Rates
+chapter: "第4章 利率度量"
 importance: "*****"
 ---
 

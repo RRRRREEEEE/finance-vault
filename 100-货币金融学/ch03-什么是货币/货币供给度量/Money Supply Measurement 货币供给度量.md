@@ -13,7 +13,7 @@ aliases:
   - 货币层次
 created: 2026-06-06
 source: Ch03-2026-T (1).pptx 第22-35页
-chapter: Chapter 3 What Is Money
+chapter: "第3章 什么是货币"
 importance: "*****"
 ---
 

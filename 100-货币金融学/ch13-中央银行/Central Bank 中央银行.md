@@ -10,8 +10,8 @@ aliases:
   - 中央银行
 created: 2026-06-06
 source: Ch13-2026.pptx 第4-10页
-chapter: Chapter 13 Central Banks
-importance:
+chapter: "第13章 中央银行"
+importance: "*****"
 ---
 
 # 中央银行 (Central Bank)

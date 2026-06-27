@@ -13,7 +13,7 @@ aliases:
   - 资本充足率
 created: 2026-06-06
 source: Ch10-2026-T.pptx 第13-17页
-chapter: Chapter 10 Economic Analysis of Financial Regulation
+chapter: "第10章 金融监管经济学"
 importance: "**"
 ---
 

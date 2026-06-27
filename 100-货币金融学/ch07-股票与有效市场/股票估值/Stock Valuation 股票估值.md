@@ -13,7 +13,7 @@ aliases:
   - Dividend Discount Model
 created: 2026-06-06
 source: Ch07-2026-T(1).pptx 第4-22页
-chapter: Chapter 7 Stock Market, Rational Expectations, EMH
+chapter: "第7章 股票与有效市场"
 importance: "*****"
 ---
 

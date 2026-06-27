@@ -12,7 +12,7 @@ aliases:
   - Financial Institutions
 created: 2026-06-06
 source: Ch01 p15 + Ch02 p44-48
-chapter: Chapter 1-2
+chapter: "第1章 导论"
 importance: "**"
 ---
 

@@ -12,7 +12,7 @@ aliases:
   - 债券市场框架
 created: 2026-06-06
 source: Ch05-2026-T(1).pptx 第13-29页
-chapter: Chapter 5 The Behavior of Interest Rates
+chapter: "第5章 利率行为"
 importance: "****"
 ---
 

@@ -18,7 +18,7 @@ aliases:
   - 流动性溢价理论
 created: 2026-06-06
 source: Ch06-2026-T [自动保存].pptx 第22-44页
-chapter: Chapter 6 The Risk and Term Structure of Interest Rates
+chapter: "第6章 利率结构"
 importance: "*****"
 ---
 

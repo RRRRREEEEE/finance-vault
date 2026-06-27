@@ -14,7 +14,7 @@ aliases:
   - 预算盈余
 created: 2026-06-06
 source: Ch01-2026 (1).pptx 第27页
-chapter: Chapter 1 Why Study Money, Banking, and Financial Markets
+chapter: "第1章 导论"
 importance: "*"
 ---
 

@@ -12,7 +12,7 @@ aliases:
   - Cost of Borrowing
 created: 2026-06-17
 source: "Ch01-2026 (1).pptx 第10页, 第18页"
-chapter: "Chapter 1 Why Study Money, Banking, and Financial Markets"
+chapter: "第1章 导论"
 importance: "*****"
 ---
 

@@ -13,7 +13,7 @@ aliases:
   - 货币供给
 created: 2026-06-06
 source: Ch01 p18 + Ch03 p12-21
-chapter: Chapter 1 & 3
+chapter: "第1章 导论"
 importance: "****"
 ---
 
