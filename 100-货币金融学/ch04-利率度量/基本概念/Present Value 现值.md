@@ -15,15 +15,15 @@ aliases:
   - Discounting
   - 折现
 created: 2026-06-06
-source: Ch04-2026-T(3).pptx 第6-11页
-chapter: "第4章 利率度量"
+source: "Ch04-2026-T(3).pptx 第6-11页; Chap4_Discounted Cash Evaluation.pdf 第11-29页"
+chapter: "第4章 利率度量 / 第4章 Discounted Cash Flow Valuation"
 importance: "*****"
 ---
 
 # 现值 (Present Value)
 
 ## 📌 定义
-现值是未来现金流按利率折现后的当前价值。一年后收到的一美元不如今天的一美元值钱——因为今天的一美元可以赚取利息。
+现值是未来现金流按利率**折现后的当前价值**。一年后收到的一美元不如今天的一美元值钱——因为今天的一美元可以赚取利息。
 
 > 💬 通俗理解：今天给你100块 vs 一年后给你100块——你肯定选今天，因为今天的钱存银行能生利息。现值就是算"未来的钱今天值多少"。
 
@@ -68,10 +68,10 @@ $$ PV = \sum_{t=1}^{n} \frac{CF_t}{(1 + i)^t} $$
 - [[Rate of Return 回报率]]：基于现值的实际收益计算
 
 ## 🔀 跨课程链接
-- **公司财务管理**：[[净现值]]、[[内部报酬率]]、[[贴现现金流]]
+- **公司财务管理**：[[Net Present Value 净现值]]（NPV = PV − Cost）、[[Future Value 终值]]（FV = PV × (1+r)^T）、[[Annuity 年金]]（多笔等额现金流的PV）
 
 ## ⚖️ 易混点对照（人类填写区域）
-- PV vs NPV：PV 是现金流入现值，NPV = PV - 初始投资
+- PV vs NPV：PV 是现金流入现值，NPV = PV - 初始投资。NPV > 0 → 接受项目
 
 ## 📝 个人批注（人类专属，AI 严禁写入）
 - 考试重点：

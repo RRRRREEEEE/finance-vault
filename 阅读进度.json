@@ -1,6 +1,6 @@
 {
   "project": "跨课程知识图谱",
-  "last_updated": "2026-06-28T03:00:00",
+  "last_updated": "2026-06-30T01:00:00",
   "supplement_task": {
     "description": "用米什金学习笔记PDF补充货币金融学已有笔记",
     "source": "米什金《货币金融学》（第13版）笔记和课后习题（含考研真题.pdf",
@@ -297,6 +297,37 @@
           "shell_notes": 0,
           "status": "completed",
           "notes": "中国税制（二）：消费税(15税目/从价从量混合/自产委托加工进口)→企业所得税(25%/居民非居民/扣除标准/15项优惠)→个人所得税(7级累进3-45%/9税目/6专项附加)→其他14税种(城建税/关税/资源税/环保税/房产税/土地增值税等)"
+        },
+        {
+          "chapter_id": "ch12",
+          "chapter_label": "ch12-多级政府财政",
+          "source_files": [
+            "2026-12-第十二讲-多级政府中的财政.pptx"
+          ],
+          "total_pages": 24,
+          "processed_pages": [
+            1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24
+          ],
+          "notes_generated": [
+            "政府间财政关系",
+            "政府间职能分配",
+            "集权与分权",
+            "用手投票与用脚投票",
+            "辖区受益原则",
+            "蒂伯特定理",
+            "财政联邦制",
+            "收入在政府间划分的原则",
+            "政府间财政补助",
+            "粘蝇纸效应",
+            "转移支付",
+            "地方财政困难",
+            "改善财政困境的建议展望",
+            "人口流动与财政压力"
+          ],
+          "content_notes": 14,
+          "shell_notes": 0,
+          "status": "completed",
+          "notes": "多级政府中的财政：政府间财政关系/职能分配→集权vs分权→蒂伯特定理/用脚投票/辖区受益原则/财政联邦制→收入划分原则(中央税/地方税)→政府间补助(四种类型/粘蝇纸效应)→转移支付(纵向横向/标准化公式)→地方财政困难(贵州云南广西天津案例)→改革建议(开源节流放权)"
         },
         {
           "chapter_id": "ch10",
@@ -719,7 +750,259 @@
       ]
     },
     "公司财务管理": {
-      "status": "pending"
+      "status": "completed",
+      "chapters": [
+        {
+          "chapter_id": "ch01",
+          "chapter_label": "ch01-导论",
+          "source_files": [
+            "Chap1_Intro_cs.pdf"
+          ],
+          "total_pages": 40,
+          "processed_pages": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40],
+          "notes_generated": [
+            "Corporate Finance 公司金融",
+            "Capital Budgeting 资本预算",
+            "Capital Structure 资本结构",
+            "Net Working Capital 净营运资本",
+            "Sole Proprietorship 个人独资企业",
+            "General Partnership 普通合伙企业",
+            "Limited Partnership 有限合伙企业",
+            "Corporation 公司",
+            "Cash Flow 现金流",
+            "Shareholder Wealth Maximization 股东财富最大化",
+            "Agency Relationship 代理关系",
+            "Agency Problem 代理问题",
+            "Agency Cost 代理成本",
+            "Managerial Compensation 管理层薪酬激励",
+            "Corporate Control 公司控制权"
+          ],
+          "content_notes": 15,
+          "shell_notes": 0,
+          "images_extracted": 7,
+          "status": "completed",
+          "notes": "公司金融导论：Apple案例→三大决策问题(资本预算/资本结构/净营运资本)→企业组织形式(独资/合伙/公司)→现金流→股东财富最大化→代理问题(代理关系/代理成本/薪酬激励/公司控制权)→瑞幸案例。15篇内容笔记+1串讲+1索引+7图表。"
+        },
+        {
+          "chapter_id": "ch02",
+          "chapter_label": "ch02-财务报表与现金流",
+          "source_files": [
+            "Chap2_Financial statements .ppt"
+          ],
+          "total_pages": 62,
+          "processed_pages": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62],
+          "notes_generated": [
+            "Balance Sheet 资产负债表",
+            "Accounting Liquidity 会计流动性",
+            "Debt versus Equity 债务与权益",
+            "Market Value vs Book Value 市场价值与账面价值",
+            "Income Statement 利润表",
+            "Matching Principle and Accrual Basis 配比原则与权责发生制",
+            "Noncash Items 非现金项目",
+            "Time and Costs 时间与成本",
+            "Financial Cash Flow 财务现金流",
+            "Operating Cash Flow 经营性现金流量",
+            "Capital Spending 资本性支出",
+            "Cash Flow to Creditors 债权人现金流量",
+            "Cash Flow to Shareholders 股东现金流量",
+            "Statement of Cash Flows 现金流量表",
+            "Cash Flow from Operating Activities 经营活动现金流",
+            "Cash Flow from Investing Activities 投资活动现金流",
+            "Cash Flow from Financing Activities 筹资活动现金流",
+            "EBIT 息税前利润"
+          ],
+          "content_notes": 18,
+          "shell_notes": 0,
+          "images_extracted": 5,
+          "status": "completed",
+          "notes": "财务报表与现金流：三案例引入→资产负债表(4篇:BS/流动性/债务权益/市价vs账面)→利润表(4篇:IS/配比权责/非现金/时间成本)→NWC扩展→财务现金流(5篇:CF恒等式/OCF/CapEx/CF(B)/CF(S))→会计现金流量表(4篇:SCF/经营/投资/筹资)+1壳(EBIT)。18篇内容笔记+1串讲+1索引+5图表。"
+        },
+        {
+          "chapter_id": "ch03",
+          "chapter_label": "ch03-财务报表分析",
+          "source_files": [
+            "Chap3_Financial Statement Analysis.pptx"
+          ],
+          "total_pages": 71,
+          "processed_pages": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71],
+          "notes_generated": [
+            "Common-Size Statement Analysis 共同比报表分析",
+            "Common-Size Balance Sheet 共同比资产负债表",
+            "Common-Size Income Statement 共同比利润表",
+            "Ratio Analysis 比率分析",
+            "Current Ratio 流动比率",
+            "Quick Ratio 速动比率",
+            "Cash Ratio 现金比率",
+            "Total Debt Ratio 总负债比率",
+            "Debt-Equity Ratio 负债权益比",
+            "Times Interest Earned 利息保障倍数",
+            "Cash Coverage Ratio 现金保障比率",
+            "Inventory Turnover 存货周转率",
+            "Receivables Turnover 应收账款周转率",
+            "Payables Turnover 应付账款周转率",
+            "Total Asset Turnover 总资产周转率",
+            "Profit Margin 销售利润率",
+            "PE Ratio 市盈率",
+            "Enterprise Value 企业价值",
+            "DuPont Identity 杜邦恒等式"
+          ],
+          "content_notes": 19,
+          "shell_notes": 0,
+          "images_extracted": 7,
+          "status": "completed",
+          "notes": "财务报表分析：CaaStle案例→共同比分析(3篇:总述/BS/IS)→比率分析(总述+流动性3/杠杆4/效率4/盈利3+市值2)→杜邦恒等式(*****)。19篇内容笔记+2篇扩展(EM/ROA-ROE)+1串讲+1索引+7图表。"
+        },
+        {
+          "chapter_id": "ch04",
+          "chapter_label": "ch04-折现现金流估值",
+          "source_files": [
+            "Chap4_Discounted Cash Evaluation.pdf"
+          ],
+          "total_pages": 79,
+          "processed_pages": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79],
+          "notes_generated": [
+            "Time Value of Money 货币时间价值",
+            "Future Value 终值",
+            "Net Present Value 净现值",
+            "Discount Rate 折现率",
+            "Compounding 复利",
+            "Effective Annual Rate 有效年利率",
+            "APR 年百分比率",
+            "Continuous Compounding 连续复利",
+            "Annuity 年金",
+            "Growing Annuity 增长年金",
+            "Perpetuity 永续年金",
+            "Growing Perpetuity 增长永续年金",
+            "Pure Discount Loan 纯折价贷款",
+            "Interest-Only Loan 纯利息贷款",
+            "Amortized Loan 分期偿还贷款"
+          ],
+          "content_notes": 16,
+          "shell_notes": 0,
+          "images_extracted": 0,
+          "status": "completed",
+          "notes": "折现现金流估值：四变量TVM→FV/PV/NPV+Discount Rate→Compounding/EAR/APR/连续复利→年金(4类:固定/增长/永续/增长永续)→三种贷款(纯折价/纯利息/分期偿还)。16篇内容笔记+1篇扩展(Present Value)+1串讲+1索引。"
+        },
+        {
+          "chapter_id": "ch06",
+          "chapter_label": "ch06-股票估值",
+          "source_files": [
+            "Chap6_Stock.pdf"
+          ],
+          "total_pages": 77,
+          "processed_pages": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77],
+          "notes_generated": [
+            "Stock Market Structure 股票市场结构",
+            "China Stock Market 中国股票市场",
+            "Preferred Stock 优先股",
+            "Dividend Discount Model 股利折现模型",
+            "Zero Growth Model 零增长模型",
+            "Constant Growth Model 固定增长模型",
+            "Differential Growth Model 变动增长模型",
+            "Total Payout Valuation 总支付估值",
+            "Growth Rate Estimation 增长率估计",
+            "Required Return Estimation 必要收益率估计",
+            "NPVGO 增长机会净现值",
+            "No Dividend Firms 零股利公司",
+            "PE Ratio Determinants 市盈率决定因素"
+          ],
+          "content_notes": 13,
+          "shell_notes": 0,
+          "images_extracted": 5,
+          "status": "completed",
+          "notes": "股票估值：全球股市结构(美英港中)→普通股/优先股特征→DDM通用模型→三种特例(零增长/固定增长/变动增长)→参数估计(g=b×ROE, R=D1/P0+g)→总支付(含回购)→NPVGO→零股利公司→P/E决定因素(b/ROE/R分解)。13篇内容笔记+1串讲+1索引+5图表。"
+        },
+        {
+          "chapter_id": "ch07",
+          "chapter_label": "ch07-NPV与投资规则",
+          "source_files": [
+            "Chap7_NPV.pdf"
+          ],
+          "total_pages": 49,
+          "processed_pages": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49],
+          "notes_generated": [
+            "NPV Investment Rule NPV投资法则",
+            "Payback Period 投资回收期",
+            "Discounted Payback Period 折现回收期",
+            "Average Accounting Return 平均会计收益率",
+            "Profitability Index 获利指数",
+            "Internal Rate of Return 内部报酬率",
+            "IRR Problems and Limitations IRR问题与局限",
+            "Capital Budgeting Methods Comparison 资本预算方法比较"
+          ],
+          "content_notes": 8,
+          "shell_notes": 0,
+          "images_extracted": 7,
+          "status": "completed",
+          "notes": "NPV与投资规则：六种方法系统比较——NPV(使用现金流/全部现金流/正确折现)→回收期→折现回收期→AAR(会计方法)→PI(获利指数,规模问题)→IRR(内部报酬率,NPV=0)→IRR四大陷阱(投融资/规模/时序/多重IRR+MIRR修正)→实务比较(大公司用NPV/IRR,小公司更依赖回收期)。8篇内容笔记+2篇扩展(Capital Budgeting/NPV)+1串讲+1索引+7图表。"
+        },
+        {
+          "chapter_id": "ch11",
+          "chapter_label": "ch11-CAPM",
+          "source_files": [
+            "Chap11_CAPM.pdf"
+          ],
+          "total_pages": 57,
+          "processed_pages": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57],
+          "notes_generated": [
+            "Expected Return and Risk 期望收益与风险",
+            "Covariance and Correlation 协方差与相关系数",
+            "Portfolio Return and Risk 资产组合收益与风险",
+            "Efficient Frontier 有效边界",
+            "Systematic and Unsystematic Risk 系统风险与非系统风险",
+            "Beta Coefficient 贝塔系数",
+            "Capital Asset Pricing Model 资本资产定价模型",
+            "Sharpe Ratio 夏普比率"
+          ],
+          "content_notes": 8,
+          "shell_notes": 0,
+          "images_extracted": 8,
+          "status": "completed",
+          "notes": "CAPM：单只证券(E(R)/σ²)→协方差/相关系数→组合理论(收益加权平均,风险小于加权平均)→有效边界(最小方差组合以上)→风险分解(系统/非系统,只有系统风险获溢价)→贝塔(β=Cov/σM²)→CAPM(E(R)=RF+β(RM-RF),SML)→夏普比率((R-RF)/σ)。8篇内容笔记+1串讲+1索引+8图表。"
+        },
+        {
+          "chapter_id": "ch12",
+          "chapter_label": "ch12-资本成本",
+          "source_files": [
+            "Chap12_Cost of Capital.pdf"
+          ],
+          "total_pages": 46,
+          "processed_pages": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46],
+          "notes_generated": [
+            "Cost of Equity Capital 权益资本成本",
+            "Beta Estimation and Determinants 贝塔估计与决定因素",
+            "Cost of Equity with DDM 股利折现法估算权益成本",
+            "Project Cost of Capital 项目资本成本",
+            "Cost of Debt 债务资本成本",
+            "Weighted Average Cost of Capital 加权平均资本成本"
+          ],
+          "content_notes": 6,
+          "shell_notes": 0,
+          "images_extracted": 5,
+          "status": "completed",
+          "notes": "资本成本：权益资本成本(CAPM: RE=RF+β(RM-RF), DDM: RE=D1/P0+g)→贝塔决定因素(周期性/经营杠杆/财务杠杆, βE=(1+D/E)βA)→项目资本成本(不同风险不同折现率)→税后债务成本(RD(1-TC))→优先股成本(RP=C/P)→WACC(wERE+wDRD(1-TC),市场价值权重,Eastman完整算例)。6篇内容笔记+1串讲+1索引+5图表。"
+        },
+        {
+          "chapter_id": "ch14",
+          "chapter_label": "ch14-MM资本结构",
+          "source_files": [
+            "Chap14_MM.pdf"
+          ],
+          "total_pages": 45,
+          "processed_pages": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45],
+          "notes_generated": [
+            "Capital Structure and Pie Theory 资本结构与派理论",
+            "Financial Leverage and EPS 财务杠杆与每股收益",
+            "MM Proposition I and II No Tax MM无税定理",
+            "MM Proposition I and II With Tax MM有税定理"
+          ],
+          "content_notes": 4,
+          "shell_notes": 0,
+          "images_extracted": 5,
+          "status": "completed",
+          "notes": "MM资本结构：Apple回购案例→派理论(V=D+E)→财务杠杆与EPS(盈亏平衡EBIT,自制杠杆)→MM无税(1958, VL=VU, RS=R0+(D/E)(R0-RD), WACC恒定)→MM有税(1963, VL=VU+TCD, 税盾创造价值, RS=R0+(D/E)(1-TC)(R0-RD), WACC递减)。4篇内容笔记+1串讲+1索引+5图表。公司财务管理全部9章完成。"
+        }
+      ]
     },
     "国际贸易": {
       "status": "completed",
